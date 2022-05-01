@@ -2,7 +2,9 @@
 
 ### Lombok
 
-- 29/4/2022-1/5/2022
+- 29/4/2022 - 2/5/2022
   - Instalación de lombok
+  - Var
+  - Val
 -
 -
