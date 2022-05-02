@@ -6,5 +6,6 @@
   - Instalación de lombok
   - Var
   - Val
+  - Anotación NonNull
 -
 -
