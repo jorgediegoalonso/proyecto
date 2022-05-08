@@ -8,6 +8,10 @@
   - Val
   - Anotación NonNull
   - Anotación Cleanup
+  
 - 7/5/2022 - 8/5/2022
   - Practica Final curso 1 de lombok  
+  - Anotación Getter
+  - Anotación Getter Lazy
+  - Anotación Setter
 -
