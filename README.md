@@ -15,4 +15,5 @@
   - Anotación Getter Lazy
   - Anotación Setter
   - Anotación With
+  - Anotación tostring
 -
