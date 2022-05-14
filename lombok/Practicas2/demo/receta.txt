@@ -1,0 +1,3 @@
+titulo:Manzanas al horno
+Ingredientes:manzanas;500;canela;10
+cocion:Cortar manzanas y al horno
