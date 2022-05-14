@@ -22,3 +22,4 @@
   - Anotación EqualsAndHashCode(Crea los metodos equals y hashCode del objeto)
   - Anotación NoArgsConstructor(Crea un constructor sin parametros)
   - Anotación RequiredArgsConstructor(crea un constructor que tendra como parametros para inicializar las propiedades @nonNull y final)
+  - Anotación AllArgsConstructor(crea un constructor que inicializara por parametros las propiedades no estaticas)
