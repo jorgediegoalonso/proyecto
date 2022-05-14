@@ -18,3 +18,4 @@
   - Anotación tostring(Crea un to string al objeto que te mostrara todas la propiedades por defecto)
 - 13/5/2022 - 15/5/2022
   - Practica final curso 2 de lombok
+  - Anotación Builder
