@@ -20,3 +20,4 @@
   - Practica final curso 2 de lombok
   - Anotación Builder(Podremos usar un builder para hacer mas comoda la creación del objeto y solo asignar las propiedades que queremos, las demas se inicializaran                             a (0,false o cadena vacia))
   - Anotación EqualsAndHashCode(Crea los metodos equals y hashCode del objeto)
+  - Anotación NoArgsConstructor
