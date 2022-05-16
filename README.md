@@ -34,4 +34,4 @@
     - Log 
     - Slf4j
     - Xslf4j
-  - Configuración de los logs
+  - Configuración de los logs y archivo de configuración
