@@ -26,4 +26,4 @@
   - Anotación Data (Lo mismo a usar sobre la clase RequiredArgsContructor+setter+getter+EqualsAndHashCode+tostring)
   - Anotación Value (Sería como Data pero no genera setters de las propiedades y en lugar de usar RequiredArgsContructor, usa AllArgsConstructor por lo que la idea es inicializar todo con el constructor)
   - Anotación SkeakyThrows ()
-  - Anotación Synchronized ()
+  - Anotación Synchronized (Se podría decir que sustituye al synchronized de java)
