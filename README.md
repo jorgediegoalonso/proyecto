@@ -28,4 +28,5 @@
   - Anotación SkeakyThrows ()
   - Anotación Synchronized (Se podría decir que sustituye al synchronized de java)
   - Anotación log
+    - commonsLog  
   - Configuración de Lombok
