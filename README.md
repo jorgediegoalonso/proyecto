@@ -29,4 +29,9 @@
   - Anotación Synchronized (Se podría decir que sustituye al synchronized de java)
   - Anotación log
     - commonsLog  
+    - JbossLog
+    - Log4j
+    - Log 
+    - Slf4j
+    - Xslf4j
   - Configuración de Lombok
