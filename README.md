@@ -34,4 +34,4 @@
     - Log 
     - Slf4j
     - Xslf4j
-  - Configuración de Lombok
+  - Configuración de los logs
