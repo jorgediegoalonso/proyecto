@@ -16,7 +16,7 @@
   - Anotación Setter (Crea los setter)
   - Anotación With (crea el metodo with para recrear el objeto para poder cambiar una constante)
   - Anotación tostring (Crea un to string al objeto que te mostrara todas la propiedades por defecto)
-- 13/5/2022 - 15/5/2022
+- 13/5/2022 - 16/5/2022
   - Practica final curso 2 de lombok
   - Anotación Builder (Podremos usar un builder para hacer mas comoda la creación del objeto y solo asignar las propiedades que queremos, las demas se inicializaran                             a (0,false o cadena vacia))
   - Anotación EqualsAndHashCode (Crea los metodos equals y hashCode del objeto)
@@ -39,3 +39,5 @@
   
   
 ### Fundamentos ITIL 4
+  - 17/5/2022
+    - Primer curso: Conceptos basicos de ITIL (Relación proveedor y consumidor, tipos de proveedores, salidas, resultados, garantía, oferta de servicio, etc.)
