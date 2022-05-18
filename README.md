@@ -41,4 +41,4 @@
 ### Fundamentos ITIL 4
   - 17/5/2022
     - Primer curso: Conceptos basicos de ITIL (Relación proveedor y consumidor, tipos de proveedores, salidas, resultados, garantía, oferta de servicio, etc.)
-    - Segundo curso: Principios Guía
+    - Segundo curso: Explicación y aplicación practica de los Principios Guía
