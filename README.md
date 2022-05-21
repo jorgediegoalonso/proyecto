@@ -46,3 +46,5 @@
     - Tercer curso: Explicación Cuatro dimensiones de la Gestión de servicios (Organizaciones y personas, Información y tecnología, Socios y proveedores, Flujos de valor y procesos)
     - Cuarto curso: Explicación del sistema de valor del Servicio(Componentes del SVS y su integración, La mejora continua, modelo de mejora continua ,cadena de valor del servicio)
     - Quinto curso: Taller de creación de un flujo de valor para entender la utilidad práctica de lo aprendido anteriormente, su uso y prácticas ITIL que se aplican
+    - Sexto Curso: 
+    - Séptimo Curso: 
