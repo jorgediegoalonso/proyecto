@@ -35,14 +35,15 @@
     - Slf4j
     - Xslf4j
   - Configuración de los logs y archivo de configuración
-  - Anotaciones Experimentales
+  - Anotaciones Experimentales  
+- Opinion  
   
   
 ### Fundamentos ITIL 4
   - 17/5/2022 - 18/5/2022
     - Primer curso: Conceptos basicos de ITIL (Relación proveedor y consumidor, tipos de proveedores, salidas, resultados, garantía, oferta de servicio, etc.)
     - Segundo curso: Explicación y aplicación practica de los Principios Guía (Centrarse en el valor, Comenzar desde esté, Progresar iterativamente y con retroalimentación, Colaborar y promover la visibilidad, Pensar y trabajar de forma holística, Mantenerlo simple y práctico, Optimizar y automatizar)
-  - 21/5/2022
+  - 21/5/2022 - 23/5/2022
     - Tercer curso: Explicación Cuatro dimensiones de la Gestión de servicios (Organizaciones y personas, Información y tecnología, Socios y proveedores, Flujos de valor y procesos)
     - Cuarto curso: Explicación del sistema de valor del Servicio(Componentes del SVS y su integración, La mejora continua, modelo de mejora continua ,cadena de valor del servicio)
     - Quinto curso: Taller de creación de un flujo de valor para entender la utilidad práctica de lo aprendido anteriormente, su uso y prácticas ITIL que se aplican
