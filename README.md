@@ -37,7 +37,10 @@
   - Configuración de los logs y archivo de configuración
   - Anotaciones Experimentales  
 - ### Opinion  
-  
+
+  En mi opinión me ha parecido una carrera útil, claramente algunas anotaciones me parecieron mejores que otras o que tenían un uso mas general.
+  Las mejores para mi fueron generalmente las de contructores y @Data ya que me parece que serían las que utilizaría normalmente.
+  En cuanto a las clases pienso que fueron fáciles de entender y seguir ademas el profesor se esforzaba para que fuera asi. 
   
 ### Fundamentos ITIL 4
   - 17/5/2022 - 18/5/2022
